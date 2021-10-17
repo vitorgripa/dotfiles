@@ -1,0 +1,1476 @@
+Validating found git in: git
+Using git 2.33.1 from git
+> git rev-parse --git-dir
+Open repository: /home/vitorgripa/projetos/pokelight/servidor
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/evento-haloween refs/remotes/feature/evento-haloween
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/evento-haloween refs/remotes/feature/evento-haloween
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/evento-haloween refs/remotes/feature/evento-haloween
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/evento-haloween refs/remotes/feature/evento-haloween
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/evento-haloween refs/remotes/feature/evento-haloween
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/evento-haloween refs/remotes/feature/evento-haloween
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/npc-moveis refs/remotes/feature/npc-moveis
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/npc-moveis refs/remotes/feature/npc-moveis
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/npc-moveis refs/remotes/feature/npc-moveis
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/npc-moveis refs/remotes/feature/npc-moveis
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :server-files/server/items/-- BKP/items.xml
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/items/-- BKP/items.xml
+> git cat-file -s 66b2b0b5b920486b4e5f5592d92ec2b7990c7320
+> git show --textconv :server-files/server/npc/scripts/eggmove_changer.lua
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/npc/scripts/eggmove_changer.lua
+> git cat-file -s ab9cf3a4aff29a7cd7e3931301458605b925e2b2
+> git check-ignore -v -z --stdin
+> git show --textconv :server-files/server/npc/scripts/tournament.lua
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/npc/scripts/tournament.lua
+> git cat-file -s 8bfe29ac9e4f1c613810e2aa08da680101e6d8d1
+> git check-ignore -v -z --stdin
+> git show --textconv :server-files/server/actions/scripts/modules_init/craft.lua
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/actions/scripts/modules_init/craft.lua
+> git cat-file -s 04959d47b36b8a39131dfacaefd07c114b92deb6
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :server-files/server/actions/scripts/modules_init/craft.lua
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/actions/scripts/modules_init/craft.lua
+> git cat-file -s 04959d47b36b8a39131dfacaefd07c114b92deb6
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :scripts/start
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/scripts/start
+> git cat-file -s 51828fca688ca7a0d14cc8339e8d2478e292ff00
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :.vscode/settings.json
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/.vscode/settings.json
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :scripts/start
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/scripts/start
+> git cat-file -s 51828fca688ca7a0d14cc8339e8d2478e292ff00
+> git show --textconv :.vscode/settings.json
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/.vscode/settings.json
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :server-files/config.lua
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/config.lua
+> git cat-file -s a9fb0f66c13ffaa8376d5ba1f3aa7e72ff81a1c8
+> git check-ignore -v -z --stdin
+> git show --textconv :server-files/server/globalevents/globalevents.xml
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/globalevents/globalevents.xml
+> git cat-file -s d20133e5f944aedd2b29a4d0c0b795827e2a039a
+> git show --textconv :server-files/server/actions/actions.xml
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/actions/actions.xml
+> git cat-file -s 7a8248d67113ea330d724b8d13bd9153e3b93252
+> git check-ignore -v -z --stdin
+> git show --textconv :server-files/server/actions/lib/actions.lua
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/actions/lib/actions.lua
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git check-ignore -v -z --stdin
+> git show --textconv :server-files/server/actions/scripts/balls/charged.lua
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/actions/scripts/balls/charged.lua
+> git cat-file -s f70e981b6fec6af2a7f215e018a9a09d0021ec66
+> git show --textconv :server-files/server/actions/scripts/balls/discharged.lua
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/actions/scripts/balls/discharged.lua
+> git cat-file -s f25c2cd339a5fbb5ac050063d4d52cc1ca299b4b
+> git show --textconv :server-files/server/actions/scripts/balls/inUse.lua
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/actions/scripts/balls/inUse.lua
+> git cat-file -s a0b6abe1adc5dccb006a17b8da4917ad1f59b983
+> git show --textconv :server-files/server/actions/lib/actions.lua
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/actions/lib/actions.lua
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git check-ignore -v -z --stdin
+> git show --textconv :scripts/stop
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/scripts/stop
+> git cat-file -s 1fbb5f5c5088656568f1045489278ff682ea1e59
+> git check-ignore -v -z --stdin
+> git show --textconv :.vscode/settings.json
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/.vscode/settings.json
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :docker-compose.yml
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/docker-compose.yml
+> git cat-file -s 6411b2d9b5d1e4734420d7f7b9947c220ec55c6d
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :source/actions.cpp
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/source/actions.cpp
+> git cat-file -s 9cb1f43586e71752bedd179daeec8378a7201424
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :.vscode/settings.json
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/.vscode/settings.json
+> git show --textconv :.vscode/settings.json
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/.vscode/settings.json
+> git check-ignore -v -z --stdin
+> git show --textconv :.gitignore
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/.gitignore
+> git cat-file -s c8676912ad92e6569524a6b4cec4766688068788
+> git show --textconv :.env
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/.env
+> git show --textconv :.vscode/settings.json
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/.vscode/settings.json
+> git show --textconv :.vscode/settings.json
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/.vscode/settings.json
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :.env
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/.env
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :server-files/server/actions/scripts/modules_init/craft.lua
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/actions/scripts/modules_init/craft.lua
+> git cat-file -s 04959d47b36b8a39131dfacaefd07c114b92deb6
+> git check-ignore -v -z --stdin
+> git show --textconv :server-files/server/items/items.xml
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/items/items.xml
+> git cat-file -s 4acb14f988066c55384423b64016463c2daeaaf1
+> git show --textconv :server-files/server/lib/wish/config/001-rangerClub.lua
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/lib/wish/config/001-rangerClub.lua
+> git cat-file -s 6b673d3f2765b4e50d56665b65e8c6bad1addb00
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :server-files/server/monster/monsters.lua
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/monster/monsters.lua
+> git cat-file -s 9e8fffc4a6451f068729ec8cadc7586aeb7a3860
+> git show --textconv :source/iologindata.cpp
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/source/iologindata.cpp
+> git cat-file -s e15512fccad1a3d47285aa035385e1cfe461affb
+> git show --textconv :server-files/server/lib/wish/config/pokemon.lua
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/lib/wish/config/pokemon.lua
+> git cat-file -s 4982a792e23c875dd9221cca54cc284733cf04ca
+> git check-ignore -v -z --stdin
+> git show --textconv :server-files/server/lib/wish/systems/010-pokedex.lua
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/lib/wish/systems/010-pokedex.lua
+> git cat-file -s 5b4b341fb043a31414299ce12e20c192075b9dd7
+> git check-ignore -v -z --stdin
+> git show --textconv :server-files/server/npc/scripts/eggmove_changer.lua
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/npc/scripts/eggmove_changer.lua
+> git cat-file -s ab9cf3a4aff29a7cd7e3931301458605b925e2b2
+> git show --textconv :server-files/server/lib/wish/systems/001-npcBattle.lua
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/lib/wish/systems/001-npcBattle.lua
+> git cat-file -s f4e0d1491a35f52d03adb89bcd50a65732f2d181
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/lib/wish/systems/001-npcBattle.lua
+> git cat-file -s f4e0d1491a35f52d03adb89bcd50a65732f2d181
+> git show --textconv :server-files/server/lib/wish/systems/001-npcBattle.lua
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :.vscode/settings.json
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/.vscode/settings.json
+> git show --textconv :.vscode/settings.json
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/.vscode/settings.json
+> git show --textconv :server-files/server/lib/wish/systems/001-npcBattle.lua
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/lib/wish/systems/001-npcBattle.lua
+> git cat-file -s f4e0d1491a35f52d03adb89bcd50a65732f2d181
+> git check-ignore -v -z --stdin
+> git show --textconv :.env
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/.env
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :server-files/server/lib/wish/systems/001-npcBattle.lua
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/lib/wish/systems/001-npcBattle.lua
+> git cat-file -s f4e0d1491a35f52d03adb89bcd50a65732f2d181
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :server-files/server/npc/scripts/eggmove_changer.lua
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/npc/scripts/eggmove_changer.lua
+> git cat-file -s ab9cf3a4aff29a7cd7e3931301458605b925e2b2
+> git show --textconv :server-files/server/lib/wish/systems/001-npcBattle.lua
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/lib/wish/systems/001-npcBattle.lua
+> git cat-file -s f4e0d1491a35f52d03adb89bcd50a65732f2d181
+> git show --textconv :server-files/server/items/items.xml
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/items/items.xml
+> git cat-file -s 4acb14f988066c55384423b64016463c2daeaaf1
+> git show --textconv :server-files/server/npc/scripts/eggmove_changer.lua
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/npc/scripts/eggmove_changer.lua
+> git cat-file -s ab9cf3a4aff29a7cd7e3931301458605b925e2b2
+> git show --textconv :server-files/server/lib/wish/systems/001-npcBattle.lua
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/lib/wish/systems/001-npcBattle.lua
+> git cat-file -s f4e0d1491a35f52d03adb89bcd50a65732f2d181
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :server-files/server/talkactions/talkactions.xml
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/talkactions/talkactions.xml
+> git cat-file -s e4d19dc399ce47837a53b0ac28ee2adebfe29e95
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :server-files/server/talkactions/acess.lua
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/talkactions/acess.lua
+> git cat-file -s 270e90d62d83a06539e55e3b70e3ef185d2ea8f3
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :server-files/server/npc/[GUILS].xml
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/npc/[GUILS].xml
+> git cat-file -s d3025dfc0e83b175cdde885b32c9f97a2e3f1276
+> git check-ignore -v -z --stdin
+> git show --textconv :server-files/server/npc/Agniroc.xml
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/npc/Agniroc.xml
+> git cat-file -s a3e3c5a791053eb102fd038267fe83ff3ad97e98
+> git show --textconv :server-files/server/npc/Alan Moore.xml
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/npc/Alan Moore.xml
+> git cat-file -s 240cfb6a6e020c86c841890da22a65a5f4d29648
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :server-files/server/npc/scripts/Battle_Main_cassino1.lua
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/npc/scripts/Battle_Main_cassino1.lua
+> git cat-file -s 3912aa5184b46fd09c380d21f145f657a117130c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :server-files/server/npc/Recruta Victor.xml
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/npc/Recruta Victor.xml
+> git cat-file -s ff987ba4adc4900788da8a4ff851f1e643ddff38
+> git check-ignore -v -z --stdin
+> git show --textconv :server-files/server/npc/Recruta Kazz.xml
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/npc/Recruta Kazz.xml
+> git cat-file -s 8299438ea5f8fcf6ec1ac925cb988eb065596029
+> git check-ignore -v -z --stdin
+> git show --textconv :server-files/server/items/items.xml
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/items/items.xml
+> git status -z -u
+> git cat-file -s 4acb14f988066c55384423b64016463c2daeaaf1
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :server-files/server/lib/wish/systems/001-npcBattle.lua
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/lib/wish/systems/001-npcBattle.lua
+> git cat-file -s f4e0d1491a35f52d03adb89bcd50a65732f2d181
+> git show --textconv :server-files/server/actions/actions.xml
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/actions/actions.xml
+> git cat-file -s 7a8248d67113ea330d724b8d13bd9153e3b93252
+> git show --textconv :server-files/server/lib/wish/systems/001-npcBattle.lua
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/lib/wish/systems/001-npcBattle.lua
+> git cat-file -s f4e0d1491a35f52d03adb89bcd50a65732f2d181
+> git show --textconv :server-files/server/talkactions/talkactions.xml
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/talkactions/talkactions.xml
+> git cat-file -s e4d19dc399ce47837a53b0ac28ee2adebfe29e95
+> git show --textconv :server-files/server/lib/wish/systems/001-npcBattle.lua
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/lib/wish/systems/001-npcBattle.lua
+> git cat-file -s f4e0d1491a35f52d03adb89bcd50a65732f2d181
+> git show --textconv :server-files/server/actions/actions.xml
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/actions/actions.xml
+> git cat-file -s 7a8248d67113ea330d724b8d13bd9153e3b93252
+> git show --textconv :server-files/server/talkactions/acess.lua
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/talkactions/acess.lua
+> git cat-file -s 270e90d62d83a06539e55e3b70e3ef185d2ea8f3
+> git show --textconv :server-files/server/lib/wish/systems/001-npcBattle.lua
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/lib/wish/systems/001-npcBattle.lua
+> git cat-file -s f4e0d1491a35f52d03adb89bcd50a65732f2d181
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :server-files/server/npc/scripts/Battle_Treinador_Kian.lua
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/npc/scripts/Battle_Treinador_Kian.lua
+> git cat-file -s 6e6bfe989acda8f00a95d30ba7283e848c4f6f6b
+> git show --textconv :server-files/server/lib/wish/systems/001-npcBattle.lua
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/lib/wish/systems/001-npcBattle.lua
+> git cat-file -s f4e0d1491a35f52d03adb89bcd50a65732f2d181
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :server-files/server/npc/Recruta Kazz.xml
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/npc/Recruta Kazz.xml
+> git cat-file -s 8299438ea5f8fcf6ec1ac925cb988eb065596029
+> git check-ignore -v -z --stdin
+> git show --textconv :server-files/server/items/items.xml
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/items/items.xml
+> git cat-file -s 4acb14f988066c55384423b64016463c2daeaaf1
+> git check-ignore -v -z --stdin
+> git show --textconv :server-files/server/npc/Recruta Kazz.xml
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/npc/Recruta Kazz.xml
+> git cat-file -s 8299438ea5f8fcf6ec1ac925cb988eb065596029
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :server-files/server/talkactions/talkactions.xml
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/talkactions/talkactions.xml
+> git cat-file -s e4d19dc399ce47837a53b0ac28ee2adebfe29e95
+> git show --textconv :server-files/server/talkactions/acess.lua
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/talkactions/acess.lua
+> git cat-file -s 270e90d62d83a06539e55e3b70e3ef185d2ea8f3
+> git show --textconv :server-files/server/npc/Recruta Kazz.xml
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/npc/Recruta Kazz.xml
+> git cat-file -s 8299438ea5f8fcf6ec1ac925cb988eb065596029
+> git show --textconv :server-files/server/lib/wish/systems/001-npcBattle.lua
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/lib/wish/systems/001-npcBattle.lua
+> git cat-file -s f4e0d1491a35f52d03adb89bcd50a65732f2d181
+> git show --textconv :source/npc.h
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/source/npc.h
+> git cat-file -s 48fc2f441be5ba50efc99af9900d5a76dc9575db
+> git show --textconv :server-files/server/npc/Recruta Kazz.xml
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/npc/Recruta Kazz.xml
+> git cat-file -s 8299438ea5f8fcf6ec1ac925cb988eb065596029
+> git show --textconv :server-files/server/lib/wish/systems/001-npcBattle.lua
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/lib/wish/systems/001-npcBattle.lua
+> git cat-file -s f4e0d1491a35f52d03adb89bcd50a65732f2d181
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :source/luascript.h
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/source/luascript.h
+> git cat-file -s 464fa55cf4216b0213b7e8750cc1a483afb5dd7c
+> git show --textconv :source/luascript.cpp
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/source/luascript.cpp
+> git cat-file -s 829d7dd8105db265d492fe9964b31b6eb34d87ed
+> git show --textconv :source/game.cpp
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/source/game.cpp
+> git cat-file -s 2f5114e583598ba7ced9dc43275f511900b8f456
+> git show --textconv :source/luascript.h
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/source/luascript.h
+> git cat-file -s 464fa55cf4216b0213b7e8750cc1a483afb5dd7c
+> git show --textconv :source/game.h
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/source/game.h
+> git cat-file -s 930230905d26b7785f3e57fe71a9235c89db3167
+> git show --textconv :source/luascript.cpp
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/source/luascript.cpp
+> git cat-file -s 829d7dd8105db265d492fe9964b31b6eb34d87ed
+> git show --textconv :source/game.cpp
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/source/game.cpp
+> git cat-file -s 2f5114e583598ba7ced9dc43275f511900b8f456
+> git show --textconv :server-files/server/lib/wish/systems/001-npcBattle.lua
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/lib/wish/systems/001-npcBattle.lua
+> git cat-file -s f4e0d1491a35f52d03adb89bcd50a65732f2d181
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/lib/wish/systems/001-npcBattle.lua
+> git cat-file -s f4e0d1491a35f52d03adb89bcd50a65732f2d181
+> git show --textconv :server-files/server/lib/wish/systems/001-npcBattle.lua
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :server-files/server/talkactions/acess.lua
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/talkactions/acess.lua
+> git cat-file -s 270e90d62d83a06539e55e3b70e3ef185d2ea8f3
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :source/game.cpp
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/source/game.cpp
+> git cat-file -s 2f5114e583598ba7ced9dc43275f511900b8f456
+> git show --textconv :server-files/server/npc/Recruta Kazz.xml
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/npc/Recruta Kazz.xml
+> git cat-file -s 8299438ea5f8fcf6ec1ac925cb988eb065596029
+> git show --textconv :source/game.cpp
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/source/game.cpp
+> git cat-file -s 2f5114e583598ba7ced9dc43275f511900b8f456
+> git show --textconv :server-files/server/npc/Recruta Kazz.xml
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/npc/Recruta Kazz.xml
+> git cat-file -s 8299438ea5f8fcf6ec1ac925cb988eb065596029
+> git show --textconv :server-files/server/talkactions/acess.lua
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/talkactions/acess.lua
+> git cat-file -s 270e90d62d83a06539e55e3b70e3ef185d2ea8f3
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :server-files/server/npc/Recruta Kazz.xml
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/npc/Recruta Kazz.xml
+> git cat-file -s 8299438ea5f8fcf6ec1ac925cb988eb065596029
+> git show --textconv :server-files/server/items/items.xml
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/items/items.xml
+> git cat-file -s 4acb14f988066c55384423b64016463c2daeaaf1
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :server-files/server/lib/wish/systems/001-npcBattle.lua
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/lib/wish/systems/001-npcBattle.lua
+> git cat-file -s f4e0d1491a35f52d03adb89bcd50a65732f2d181
+> git status -z -u
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/lib/wish/systems/001-npcBattle.lua
+> git cat-file -s f4e0d1491a35f52d03adb89bcd50a65732f2d181
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git show --textconv :server-files/server/lib/wish/systems/001-npcBattle.lua
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/lib/wish/systems/001-npcBattle.lua
+> git cat-file -s f4e0d1491a35f52d03adb89bcd50a65732f2d181
+> git show --textconv :server-files/server/lib/wish/systems/001-npcBattle.lua
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/lib/wish/systems/001-npcBattle.lua
+> git cat-file -s f4e0d1491a35f52d03adb89bcd50a65732f2d181
+> git show --textconv :server-files/server/lib/wish/systems/001-npcBattle.lua
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/lib/wish/systems/001-npcBattle.lua
+> git cat-file -s f4e0d1491a35f52d03adb89bcd50a65732f2d181
+> git show --textconv :server-files/server/lib/wish/systems/001-npcBattle.lua
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/lib/wish/systems/001-npcBattle.lua
+> git cat-file -s f4e0d1491a35f52d03adb89bcd50a65732f2d181
+> git show --textconv :server-files/server/lib/wish/systems/001-npcBattle.lua
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/lib/wish/systems/001-npcBattle.lua
+> git cat-file -s f4e0d1491a35f52d03adb89bcd50a65732f2d181
+> git show --textconv :server-files/server/lib/wish/systems/001-npcBattle.lua
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/lib/wish/systems/001-npcBattle.lua
+> git cat-file -s f4e0d1491a35f52d03adb89bcd50a65732f2d181
+> git show --textconv :server-files/server/lib/wish/systems/001-npcBattle.lua
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/lib/wish/systems/001-npcBattle.lua
+> git cat-file -s f4e0d1491a35f52d03adb89bcd50a65732f2d181
+> git show --textconv :server-files/server/lib/wish/systems/001-npcBattle.lua
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :server-files/server/talkactions/acess.lua
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/talkactions/acess.lua
+> git cat-file -s 270e90d62d83a06539e55e3b70e3ef185d2ea8f3
+> git show --textconv :server-files/server/npc/Recruta Kazz.xml
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/npc/Recruta Kazz.xml
+> git cat-file -s 8299438ea5f8fcf6ec1ac925cb988eb065596029
+> git show --textconv :server-files/server/items/items.xml
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/items/items.xml
+> git cat-file -s 4acb14f988066c55384423b64016463c2daeaaf1
+> git show --textconv :.env
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/.env
+> git show --textconv :server-files/server/lib/wish/systems/001-npcBattle.lua
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/lib/wish/systems/001-npcBattle.lua
+> git cat-file -s f4e0d1491a35f52d03adb89bcd50a65732f2d181
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :server-files/server/talkactions/scripts/staff/pokemon.lua
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/talkactions/scripts/staff/pokemon.lua
+> git cat-file -s c1c480cacd8a3f601e27e47e0ee0b2401d553b48
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :server-files/server/lib/wish/systems/001-npcBattle.lua
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/lib/wish/systems/001-npcBattle.lua
+> git cat-file -s f4e0d1491a35f52d03adb89bcd50a65732f2d181
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :server-files/server/npc/Treinador Elta.xml
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/npc/Treinador Elta.xml
+> git cat-file -s cc883aed84267bd88c26c6b56cc9824c983f5f8e
+> git show --textconv :server-files/server/npc/Treinador Eliane.xml
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/npc/Treinador Eliane.xml
+> git cat-file -s 785da2e0cd025491820dacd339e42ec4a0ce032e
+> git show --textconv :server-files/server/npc/Treinador Eddie.xml
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/npc/Treinador Eddie.xml
+> git cat-file -s 83f94bc8aa4e673e17003847d7e95d621f1461aa
+> git show --textconv :server-files/server/npc/Treinador Eliane.xml
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/npc/Treinador Eliane.xml
+> git cat-file -s 785da2e0cd025491820dacd339e42ec4a0ce032e
+> git show --textconv :server-files/server/npc/Treinador Elta.xml
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/npc/Treinador Elta.xml
+> git cat-file -s cc883aed84267bd88c26c6b56cc9824c983f5f8e
+> git show --textconv :server-files/server/npc/scripts/Battle_Treinador_Larissa.lua
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/npc/scripts/Battle_Treinador_Larissa.lua
+> git cat-file -s 2a3a4a7a26c5f70c9cb6bfdb7d077a6f1feebe8f
+> git show --textconv :server-files/server/talkactions/scripts/staff/pokemon.lua
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/talkactions/scripts/staff/pokemon.lua
+> git cat-file -s c1c480cacd8a3f601e27e47e0ee0b2401d553b48
+> git check-ignore -v -z --stdin
+> git show --textconv :server-files/server/npc/scripts/Battle_Treinador_Larissa.lua
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/npc/scripts/Battle_Treinador_Larissa.lua
+> git cat-file -s 2a3a4a7a26c5f70c9cb6bfdb7d077a6f1feebe8f
+> git show --textconv :server-files/server/talkactions/scripts/staff/pokemon.lua
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/talkactions/scripts/staff/pokemon.lua
+> git cat-file -s c1c480cacd8a3f601e27e47e0ee0b2401d553b48
+> git show --textconv :server-files/server/talkactions/acess.lua
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/talkactions/acess.lua
+> git cat-file -s 270e90d62d83a06539e55e3b70e3ef185d2ea8f3
+> git check-ignore -v -z --stdin
+> git show --textconv :server-files/server/lib/wish/systems/001-npcBattle.lua
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/lib/wish/systems/001-npcBattle.lua
+> git cat-file -s f4e0d1491a35f52d03adb89bcd50a65732f2d181
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/lib/wish/systems/001-npcBattle.lua
+> git cat-file -s e7f9ab7e34e19be42d417cf1b1687f0da5957d60
+> git show --textconv :server-files/server/lib/wish/systems/001-npcBattle.lua
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/lib/wish/systems/001-npcBattle.lua
+> git cat-file -s e7f9ab7e34e19be42d417cf1b1687f0da5957d60
+> git show --textconv :server-files/server/lib/wish/systems/001-npcBattle.lua
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/dinheiro-npc-battle refs/remotes/feature/dinheiro-npc-battle
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/lib/wish/systems/001-npcBattle.lua
+> git cat-file -s f4e0d1491a35f52d03adb89bcd50a65732f2d181
+> git show --textconv :server-files/server/lib/wish/systems/001-npcBattle.lua
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :docker-compose.yml
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/docker-compose.yml
+> git cat-file -s 6411b2d9b5d1e4734420d7f7b9947c220ec55c6d
+> git show --textconv :.gitignore
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/.gitignore
+> git cat-file -s c8676912ad92e6569524a6b4cec4766688068788
+> git show --textconv :server-files/.gitignore
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/.gitignore
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/.gitignore
+> git show --textconv :server-files/.gitignore
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/vitorgripa/projetos/pokelight/servidor/server-files/.gitignore
+> git show --textconv :.gitignore
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/.gitignore
+> git cat-file -s c8676912ad92e6569524a6b4cec4766688068788
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :server-files/server/talkactions/scripts/staff/pokemon.lua
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/talkactions/scripts/staff/pokemon.lua
+> git cat-file -s c1c480cacd8a3f601e27e47e0ee0b2401d553b48
+> git check-ignore -v -z --stdin
+> git show --textconv :server-files/server/talkactions/acess.lua
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/talkactions/acess.lua
+> git cat-file -s 270e90d62d83a06539e55e3b70e3ef185d2ea8f3
+> git show --textconv :server-files/server/npc/Recruta Kazz.xml
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/npc/Recruta Kazz.xml
+> git cat-file -s 8299438ea5f8fcf6ec1ac925cb988eb065596029
+> git show --textconv :server-files/server/talkactions/acess.lua
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/talkactions/acess.lua
+> git cat-file -s 270e90d62d83a06539e55e3b70e3ef185d2ea8f3
+> git show --textconv :server-files/server/lib/wish/systems/001-npcBattle.lua
+> git ls-files --stage -- /home/vitorgripa/projetos/pokelight/servidor/server-files/server/lib/wish/systems/001-npcBattle.lua
+> git cat-file -s f4e0d1491a35f52d03adb89bcd50a65732f2d181
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/develop refs/remotes/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template

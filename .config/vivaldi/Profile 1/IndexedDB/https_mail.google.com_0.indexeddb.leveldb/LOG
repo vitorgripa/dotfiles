@@ -1,0 +1,7 @@
+2021/10/16-14:18:34.528 129c7 Reusing MANIFEST /home/vitorgripa/.config/vivaldi/Profile 1/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/10/16-14:18:34.529 129c7 Recovering log #3
+2021/10/16-14:18:34.529 129c7 Reusing old log /home/vitorgripa/.config/vivaldi/Profile 1/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 
+2021/10/16-14:19:23.007 12cce Level-0 table #5: started
+2021/10/16-14:19:23.033 12cce Level-0 table #5: 182258 bytes OK
+2021/10/16-14:19:23.067 12cce Delete type=0 #3
+2021/10/16-14:19:23.067 12cce Manual compaction at level-0 from (begin) .. (end); will stop at (end)

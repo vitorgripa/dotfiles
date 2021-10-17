@@ -1,0 +1,32 @@
+2021/10/16-11:27:05.251 df4d Creating DB /home/vitorgripa/.config/vivaldi/Profile 1/Sync Data/LevelDB since it was missing.
+2021/10/16-11:27:05.259 df4d Reusing MANIFEST /home/vitorgripa/.config/vivaldi/Profile 1/Sync Data/LevelDB/MANIFEST-000001
+2021/10/16-12:00:25.786 f599 Level-0 table #5: started
+2021/10/16-12:00:25.792 f599 Level-0 table #5: 394928 bytes OK
+2021/10/16-12:00:25.794 f599 Delete type=0 #3
+2021/10/16-14:18:09.901 125a4 Level-0 table #7: started
+2021/10/16-14:18:09.921 125a4 Level-0 table #7: 471735 bytes OK
+2021/10/16-14:18:09.943 125a4 Delete type=0 #4
+2021/10/16-14:22:00.501 125a4 Level-0 table #9: started
+2021/10/16-14:22:00.529 125a4 Level-0 table #9: 405768 bytes OK
+2021/10/16-14:22:00.564 125a4 Delete type=0 #6
+2021/10/16-14:25:03.253 12cce Level-0 table #11: started
+2021/10/16-14:25:03.282 12cce Level-0 table #11: 472709 bytes OK
+2021/10/16-14:25:03.318 12cce Delete type=0 #8
+2021/10/16-19:05:29.144 16584 Level-0 table #13: started
+2021/10/16-19:05:29.158 16584 Level-0 table #13: 503749 bytes OK
+2021/10/16-19:05:29.167 16584 Delete type=0 #10
+2021/10/16-20:17:08.609 173b8 Level-0 table #15: started
+2021/10/16-20:17:08.618 173b8 Level-0 table #15: 500655 bytes OK
+2021/10/16-20:17:08.629 173b8 Delete type=0 #12
+2021/10/16-20:17:08.629 173b8 Compacting 4@0 + 1@1 files
+2021/10/16-20:17:08.639 173b8 Generated table #16@0: 32 keys, 117735 bytes
+2021/10/16-20:17:08.639 173b8 Compacted 4@0 + 1@1 files => 117735 bytes
+2021/10/16-20:17:08.650 173b8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/10/16-20:17:08.651 173b8 Delete type=2 #15
+2021/10/16-20:17:08.651 173b8 Delete type=2 #13
+2021/10/16-20:17:08.651 173b8 Delete type=2 #7
+2021/10/16-20:17:08.651 173b8 Delete type=2 #11
+2021/10/16-20:17:08.651 173b8 Delete type=2 #9
+2021/10/16-20:54:51.596 178f3 Level-0 table #18: started
+2021/10/16-20:54:51.606 178f3 Level-0 table #18: 517406 bytes OK
+2021/10/16-20:54:51.615 178f3 Delete type=0 #14

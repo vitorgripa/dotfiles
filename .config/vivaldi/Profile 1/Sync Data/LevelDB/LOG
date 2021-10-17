@@ -1,0 +1,21 @@
+2021/10/17-11:03:23.050 64d Reusing MANIFEST /home/vitorgripa/.config/vivaldi/Profile 1/Sync Data/LevelDB/MANIFEST-000001
+2021/10/17-11:03:23.051 64d Recovering log #17
+2021/10/17-11:03:23.052 64d Reusing old log /home/vitorgripa/.config/vivaldi/Profile 1/Sync Data/LevelDB/000017.log 
+2021/10/17-11:03:27.990 678 Level-0 table #21: started
+2021/10/17-11:03:27.994 678 Level-0 table #21: 493182 bytes OK
+2021/10/17-11:03:27.995 678 Delete type=0 #17
+2021/10/17-11:10:47.343 64e Level-0 table #23: started
+2021/10/17-11:10:47.347 64e Level-0 table #23: 445513 bytes OK
+2021/10/17-11:10:47.349 64e Delete type=0 #20
+2021/10/17-11:36:50.973 cde Level-0 table #25: started
+2021/10/17-11:36:50.989 cde Level-0 table #25: 431033 bytes OK
+2021/10/17-11:36:50.992 cde Delete type=0 #22
+2021/10/17-11:36:50.993 cde Compacting 4@0 + 1@1 files
+2021/10/17-11:36:51.009 cde Generated table #26@0: 49 keys, 149419 bytes
+2021/10/17-11:36:51.010 cde Compacted 4@0 + 1@1 files => 149419 bytes
+2021/10/17-11:36:51.012 cde compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/10/17-11:36:51.013 cde Delete type=2 #25
+2021/10/17-11:36:51.013 cde Delete type=2 #23
+2021/10/17-11:36:51.013 cde Delete type=2 #16
+2021/10/17-11:36:51.013 cde Delete type=2 #21
+2021/10/17-11:36:51.013 cde Delete type=2 #18

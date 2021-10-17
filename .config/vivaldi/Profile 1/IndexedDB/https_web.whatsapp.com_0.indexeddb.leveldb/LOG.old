@@ -1,0 +1,14 @@
+2021/10/16-11:46:48.254 ef4e Creating DB /home/vitorgripa/.config/vivaldi/Profile 1/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2021/10/16-11:46:48.260 ef4e Reusing MANIFEST /home/vitorgripa/.config/vivaldi/Profile 1/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/10/16-14:13:30.584 129c7 Level-0 table #5: started
+2021/10/16-14:13:30.614 129c7 Level-0 table #5: 1176390 bytes OK
+2021/10/16-14:13:30.626 129c7 Delete type=0 #3
+2021/10/16-20:20:37.560 17425 Level-0 table #7: started
+2021/10/16-20:20:37.600 17425 Level-0 table #7: 1193721 bytes OK
+2021/10/16-20:20:37.613 17425 Delete type=0 #4
+2021/10/16-20:20:53.738 175e0 Compacting 1@1 + 1@2 files
+2021/10/16-20:20:53.786 175e0 Generated table #8@1: 20786 keys, 880189 bytes
+2021/10/16-20:20:53.786 175e0 Compacted 1@1 + 1@2 files => 880189 bytes
+2021/10/16-20:20:53.798 175e0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/10/16-20:20:53.798 175e0 Delete type=2 #5
+2021/10/16-20:20:53.798 175e0 Delete type=2 #7

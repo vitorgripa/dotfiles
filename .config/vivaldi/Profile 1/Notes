@@ -1,0 +1,25 @@
+{
+   "checksum": "9cea21ad321b167913a521e6f17439e7",
+   "children": [ {
+      "children": [  ],
+      "date_added": "13278868025256143",
+      "guid": "7f81b917-0763-5232-a83d-c24704bc9d57",
+      "id": "2",
+      "subject": "Other Notes",
+      "type": "other"
+   }, {
+      "children": [  ],
+      "date_added": "13278868025256148",
+      "guid": "572928d8-654d-55c0-8d54-d469f838e392",
+      "id": "3",
+      "subject": "Lixeira",
+      "type": "trash"
+   } ],
+   "date_added": "13278868025256141",
+   "guid": "0709f24e-6a69-55df-ba1c-eff0c6762616",
+   "id": "1",
+   "subject": "Notes",
+   "sync_metadata": "CoEBCgcIs/4NEgE0EgAaWFJpb2Q5L09QVWRRUXRDRk9BbjFGc1RkTUswWFBmcEQ2bTY3K1QvdkVpZ3BIS0s4RTVkTVZsRDFnektNTjFYb2lZcFJwa2Y5eGx3Y3BRa2J3dHM4aW1BPT0gASoYTm1jOGxVS0kxaGR2RFRMQVloL3lPQT09El4IAxJaChwvOUdZY3ZvTnd1dkFKSXFyTWNxMkJvcXBWemc9Eg48Uz50cmFzaF9ub3RlcxgAIAAoADAEOABAAEoceU0xcEp5YUIxZnFyNXo1VzZXQm4vOXI4TE9VPVoAEl4IAhJaChxnZWJzaHdlQzZWM2ZUZ0hVcWRCTmFKS25vZ2c9Eg48Uz5vdGhlcl9ub3RlcxgAIAAoADADOABAAEoceU0xcEp5YUIxZnFyNXo1VzZXQm4vOXI4TE9VPVoAEl0IARJZChxZclp3NzlmU1MzV2NnclBweDNHUVV2b1JoSDQ9Eg08Uz5tYWluX25vdGVzGAAgACgAMAI4AEAAShx5TTFwSnlhQjFmcXI1ejVXNldCbi85cjhMT1U9WgAgkOzB9MgvMAA=",
+   "type": "folder",
+   "version": 1
+}

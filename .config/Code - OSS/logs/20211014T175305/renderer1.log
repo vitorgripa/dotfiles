@@ -1,0 +1,3 @@
+[2021-10-14 17:53:07.270] [renderer1] [info] Starting extension host with pid 6029.
+[2021-10-14 17:53:08.438] [renderer1] [error] [Extension Host] (node:6029) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)

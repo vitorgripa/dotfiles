@@ -1,0 +1,4 @@
+[2021-10-16 14:42:15.363] [renderer3] [info] Starting extension host with pid 80378.
+[2021-10-16 14:42:16.310] [renderer3] [error] [Extension Host] (node:80378) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2021-10-16 14:49:19.174] [renderer3] [error] This request has been superseded by a subsequent lock() method call.

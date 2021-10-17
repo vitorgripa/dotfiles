@@ -1,0 +1,15 @@
+2021/10/17-11:03:23.036 3 Reusing MANIFEST /home/vitorgripa/.config/vivaldi/Profile 1/Local Storage/leveldb/MANIFEST-000001
+2021/10/17-11:03:23.041 3 Recovering log #57
+2021/10/17-11:03:23.042 3 Reusing old log /home/vitorgripa/.config/vivaldi/Profile 1/Local Storage/leveldb/000057.log 
+2021/10/17-11:40:23.551 13 Level-0 table #61: started
+2021/10/17-11:40:23.558 13 Level-0 table #61: 18168 bytes OK
+2021/10/17-11:40:23.563 13 Delete type=0 #57
+2021/10/17-11:40:23.565 13 Compacting 4@0 + 1@1 files
+2021/10/17-11:40:23.576 13 Generated table #62@0: 112 keys, 118474 bytes
+2021/10/17-11:40:23.576 13 Compacted 4@0 + 1@1 files => 118474 bytes
+2021/10/17-11:40:23.579 13 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/10/17-11:40:23.581 13 Delete type=2 #58
+2021/10/17-11:40:23.582 13 Delete type=2 #56
+2021/10/17-11:40:23.582 13 Delete type=2 #61
+2021/10/17-11:40:23.582 13 Delete type=2 #54
+2021/10/17-11:40:23.582 13 Delete type=2 #52

@@ -1,0 +1,6 @@
+2021/10/16-11:33:03.152 e1dd Creating DB /home/vitorgripa/.config/vivaldi/Profile 1/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2021/10/16-11:33:03.157 e1dd Reusing MANIFEST /home/vitorgripa/.config/vivaldi/Profile 1/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/10/17-08:28:53.807 1f6e8 Level-0 table #5: started
+2021/10/17-08:28:53.822 1f6e8 Level-0 table #5: 247219 bytes OK
+2021/10/17-08:28:53.841 1f6e8 Delete type=0 #3
+2021/10/17-08:28:53.841 1f6e8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
