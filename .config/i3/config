@@ -41,7 +41,7 @@ bindsym XF86AudioMicMute exec --no-startup-id pactl set-source-mute @DEFAULT_SOU
 floating_modifier $mod
 
 # start a terminal
-bindsym $mod+Return exec i3-sensible-terminal
+bindsym $mod+Return exec terminator
 
 # kill focused window
 bindsym $mod+Shift+q kill
@@ -186,7 +186,7 @@ set $bar-bg-color #111111
 
 client.focused $border-color $bg-color $text-color
 client.unfocused $inactive-bg-color $inactive-bg-color $inactive-text-color
-client.urgent $border-color $urgent-bg-color $text-color
+client.urgent $urgent-bg-color $urgent-bg-color $text-color
 
 hide_edge_borders both
 
@@ -205,7 +205,7 @@ bar {
 }
 
 #bindsym $mod+d exec rofi -show run -lines 3 -eh 2 -width 100 -opacity "85" -bw 0 -bc "$bg-color" -bg "$bg-color" -fg "$text-color" -hlbg "$bg-color" -hlfg "#9575cd" -font "System San Francisco Display 12"
-bindsym $mod+d exec rofi -show run -lines 3 -eh 2 -width 100 -opacity "85" -bw 0 -bc "$bg-color" -bg "$bg-color" -fg "$text-color" -hlbg "$bg-color" -hlfg "#9575cd" -font "System San Francisco Display 10"
+bindsym $mod+d exec --no-startup-id rofi -show run -lines 3 -eh 2 -width 100 -opacity "85" -bw 0 -bc "$bg-color" -bg "$bg-color" -fg "$text-color" -hlbg "$bg-color" -hlfg "#9575cd" -font "System San Francisco Display 10"
 
 exec_always setxkbmap -model pc105 -layout br -variant abnt2
 
@@ -216,3 +216,6 @@ exec_always feh --bg-scale ~/Imagens/wallpaper.jpg
 exec_always xrandr --output eDP-1 --mode 1366x768 --pos 2560x0 --rotate normal --output HDMI-1 --primary --mode 2560x1080 --pos 0x0 --rotate normal
 
 exec_always compton -f
+
+exec_always --no-startup-id flameshot
+
